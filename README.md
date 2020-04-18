@@ -2,7 +2,7 @@
 
 Code to enable the led backlight (i.e SCR LK) on os x, since the keyboard button just dims the screen
 
-This has been tested and works with CMSTORM Devastator on OS X 10.10 (Yosemite)
+This has been tested and works with CMSTORM Devastator on OS X 10.15.4
 
 ## How to use
 
